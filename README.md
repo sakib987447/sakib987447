@@ -9,6 +9,10 @@
 </h3>
 
 <p align="center">
+  Building modern, responsive and user-friendly web applications.
+</p>
+
+<p align="center">
   <a href="https://github.com/sakib987447">
     <img src="https://komarev.com/ghpvc/?username=sakib987447&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
@@ -18,8 +22,6 @@
 </p>
 
 ---
-
-<!-- ======================= ABOUT ME ======================= -->
 
 ## 🚀 About Me
 
@@ -37,65 +39,73 @@ Hi! I'm **MD Sakib Ansari**, a passionate **Full Stack Developer** who enjoys bu
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:sakib76ansari@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/md-sakib-a2102a35b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://personal-portfolio-website-lac-delta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/sakib987447">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
 </p>
 
 ### ⚙️ Backend
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 
 </p>
 
 ### 🗄️ Database
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </p>
 
 ### 🔧 Tools & Technologies
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 
 </p>
 
@@ -109,57 +119,28 @@ Hi! I'm **MD Sakib Ansari**, a passionate **Full Stack Developer** who enjoys bu
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+## 📚 Currently Learning
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakib987447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib987447&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+- ⚛️ Advanced React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & Mongoose
+- 🔐 Authentication & Authorization
+- 🔗 REST APIs
+- 🤖 AI Integration
+- ⚙️ Automation
+- 🚀 Deployment & Cloud Technologies
 
 ---
-
-<!-- ======================= STREAK ======================= -->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakib987447&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-<!-- ======================= TROPHIES ======================= -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakib987447&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</p>
-
----
-
-<!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
 
 ### 🌍 True Traveller
 
-A modern travel website built with **React.js**.
+A modern and responsive travel website built using **React.js**.
 
-**Tech:** React.js • JavaScript • CSS • REST APIs
+**Tech Stack:**
+
+`React.js` `JavaScript` `CSS` `REST API` `Vite`
 
 🔗 **Live Demo:**  
 https://true-traveller-website.vercel.app/
@@ -173,7 +154,9 @@ https://github.com/sakib987447/true-traveller-website
 
 A Netflix-inspired web application built using **React.js** and the **TMDB API**.
 
-**Tech:** React.js • JavaScript • TMDB API • Vite
+**Tech Stack:**
+
+`React.js` `JavaScript` `TMDB API` `Vite`
 
 🔗 **Live Demo:**  
 https://netflix-clone-react-bay.vercel.app/
@@ -184,7 +167,9 @@ https://netflix-clone-react-bay.vercel.app/
 
 An image search application using the **Unsplash API**.
 
-**Tech:** React.js • JavaScript • Unsplash API • Vite
+**Tech Stack:**
+
+`React.js` `JavaScript` `Unsplash API` `Vite`
 
 🔗 **Source Code:**  
 https://github.com/sakib987447/unsplash-image-search
@@ -193,9 +178,11 @@ https://github.com/sakib987447/unsplash-image-search
 
 ### 📋 ProManage
 
-A modern project management website built using React.js.
+A modern project management website built using **React.js** and **Bootstrap**.
 
-**Tech:** React.js • Bootstrap • JavaScript
+**Tech Stack:**
+
+`React.js` `Bootstrap` `JavaScript`
 
 🔗 **Source Code:**  
 https://github.com/sakib987447/promanage-react-website
@@ -214,8 +201,6 @@ https://github.com/sakib987447/promanage-react-website
 - 📋 Project Management Website
 
 ---
-
-<!-- ======================= JOURNEY ======================= -->
 
 ## 📈 My Development Journey
 
