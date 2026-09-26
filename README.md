@@ -27,7 +27,7 @@
 
 Hi! I'm **MD Sakib Ansari**, a passionate **Full Stack Developer** who enjoys building modern, responsive and user-friendly web applications.
 
-- 🎓 B.Tech Computer Engineering Student
+- 🎓 B.Tech Computer Engineering Graduate
 - 💻 Full Stack Developer
 - ⚛️ MERN Stack Developer
 - 🌱 Continuously learning and improving my development skills
